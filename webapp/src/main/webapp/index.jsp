@@ -1,6 +1,6 @@
-<!--Welcome to My Website. There is nothing here!-->
+Welcome to My Website. There is nothing here!
 
-
+<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,4 +53,4 @@
     </footer>
 </body>
 </html>
-
+-->
